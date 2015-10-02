@@ -411,7 +411,7 @@
       "orders": {
         "date": "10-02-2015",
         "orderAmount": "9000",
-        "orderStatus": null
+        "orderStatus": ""
       }
     },
     {
